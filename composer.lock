@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f9c0c85877d15d73211f12b4640d5d3d",
+    "content-hash": "a29c555d0076a5446dc9ef7c948e8fc4",
     "packages": [
         {
             "name": "composer/semver",
@@ -7937,6 +7937,7 @@
         "ext-json": "*",
         "ext-libxml": "*",
         "ext-mbstring": "*",
+        "ext-memcached": "*",
         "ext-xml": "*",
         "ext-xmlreader": "*",
         "php": ">=7.2.22"

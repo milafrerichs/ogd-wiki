@@ -32,6 +32,7 @@
 		"ext-json": "*",
 		"ext-libxml": "*",
 		"ext-mbstring": "*",
+		"ext-memcached": "*",
 		"ext-xml": "*",
 		"ext-xmlreader": "*",
 		"guzzlehttp/guzzle": "7.4.1",
