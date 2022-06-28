@@ -127,3 +127,7 @@ $wgDefaultSkin = "vector";
 
 # End of automatically generated settings.
 # Add more configuration options below.
+
+$wgShowExceptionDetails = true;
+$wgShowDBErrorBacktrace = true;
+$wgShowSQLErrors = true;
