@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cb26251abbbf814537d1ca40aa0a7ffe",
+    "content-hash": "49918fe5cec1995f015b40f83250fde8",
     "packages": [
         {
             "name": "composer/installers",
@@ -9294,7 +9294,7 @@
         "ext-memcached": "*",
         "ext-xml": "*",
         "ext-xmlreader": "*",
-        "php": ">=7.2.22"
+        "php": "~8.0"
     },
     "platform-dev": {
         "ext-simplexml": "*"
