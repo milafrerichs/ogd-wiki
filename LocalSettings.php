@@ -131,3 +131,8 @@ $wgDefaultSkin = "vector";
 $wgShowExceptionDetails = true;
 $wgShowDBErrorBacktrace = true;
 $wgShowSQLErrors = true;
+
+wfLoadExtension('SemanticMediaWiki');
+enableSemantics($wgServer);
+
+wfLoadExtension( 'SemanticCompoundQueries'  );

@@ -39,6 +39,8 @@
 		"justinrainbow/json-schema": "5.2.11",
 		"liuggio/statsd-php-client": "1.0.18",
 		"monolog/monolog": "2.2.0",
+		"mediawiki/semantic-compound-queries": "~2.2",
+		"mediawiki/semantic-media-wiki": "~4.0",
 		"oojs/oojs-ui": "0.44.0",
 		"pear/mail": "1.4.1",
 		"pear/mail_mime": "1.10.11",
@@ -168,7 +170,8 @@
 		"prepend-autoloader": false,
 		"allow-plugins": {
 			"composer/package-versions-deprecated": true,
-			"wikimedia/composer-merge-plugin": true
+			"wikimedia/composer-merge-plugin": true,
+			"composer/installers": true
 		}
 	},
 	"extra": {
